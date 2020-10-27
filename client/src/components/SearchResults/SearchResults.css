@@ -1,0 +1,10 @@
+.CBorder {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: grey;
+    border-width: 3px;
+}
+
+.indBook {
+    width: 90%;
+}
